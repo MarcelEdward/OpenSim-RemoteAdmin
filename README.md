@@ -11,7 +11,8 @@ Read the documentation on http://opensimulator.org/wiki/RemoteAdmin on how to en
 
 Edit the config.php file, fill out the [RemoteAdmin] info and add the upload location, this should be a location opensim can read from and to who you webserver can write to.
 
-Edit the .htaccesss file, point the AuthUserFile line to the the .htpassword file
+Edit the .htaccesss file, point the AuthUserFile line to the the .htpassword file 
+Edit the .htpasswd file, http://www.htaccesstools.com/htpasswd-generator/
 
 Disclaimer:
 
