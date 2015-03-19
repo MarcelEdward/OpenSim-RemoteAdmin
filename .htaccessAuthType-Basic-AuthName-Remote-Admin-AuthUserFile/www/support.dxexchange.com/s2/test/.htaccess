@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Remote Admin"
-AuthUserFile /changetodir/.htpasswd
-Require valid-user
